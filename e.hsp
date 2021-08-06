@@ -1,0 +1,8 @@
+repeat
+    redraw 0
+    
+    mes "e"
+
+    redraw 1
+    await 1000/60
+loop
